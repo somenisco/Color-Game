@@ -5,5 +5,5 @@ Color Game
 this ia a color game to guess rgb value of a color shown in the display
 
 
-https://codepen.io/pen/?template=LYxjbgo
+https://codepen.io/somenisco/pen/LYxjbgo
 have fun!!
